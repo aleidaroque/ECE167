@@ -1,18 +1,68 @@
+# Lab 1: Introduction to Resistive Sensors and Analog Filtering
 
-Lab 1: Introduction to Resistive Sensors and Analog Filtering
+**ECE167 - Sensing and Sensor Technology**  
+**University of California, Santa Cruz**  
 
-Aleida Diaz-Roque
+## 📌 Overview
+This project introduces **resistive and piezoelectric sensors** and their integration into digital systems. The goal is to build a **musical instrument** where the flex sensor determines pitch, and the piezo sensor triggers notes. Additionally, we will design, model, and validate **analog filters**.
 
-Introduction
+### 🔹 Objectives:
+- Learn how **flex sensors** work and create a regression model.
+- Integrate a **piezoelectric sensor** to detect pressure and vibrations.
+- Use **analog filters** to condition sensor signals.
+- Develop a **musical instrument** using the STM32 microcontroller.
 
-This lab serves as an introduction to resistive sensors, specifically the flex sensor and the piezoelectric sensor. The flex sensor measures resistance changes based on bending, while the piezoelectric sensor generates voltages upon deflection or vibration. The goal is to create a musical instrument using both sensors and experimentally validate simple analog filtering techniques.
+## ⚙️ Technologies & Components
+- **Microcontroller:** STM32 Nucleo-64
+- **Sensors:** Flex sensor, Piezo sensor
+- **Audio:** Speaker, Audio amplifier, Potentiometer
+- **Signal Processing:** Low-pass, High-pass, and Band-pass filters
+- **Software:** ADC interfacing, filtering, and signal processing in C
 
-Hardware Needed
+## 📂 Project Structure
 
-Nucleo-64 + IO shield
-Speaker
-Audio amplifier
-Breadboard
-Flex sensor
-Piezo sensor with a 1 MΩ resistor
-Resistors and capacitors
+```plaintext
+📦 Lab1_Flex_Piezo_Filters
+ ┣ 📜 README.md   # Lab documentation
+ ┣ 📂 src         # Source code for sensor interfacing and filtering
+ ┣ 📂 hardware    # Circuit schematics and filter designs
+ ┗  📂 docs        # Reports, regression models, and reference materials
+```
+
+## 🚀 Lab Sections
+
+### 1️⃣ Flex Sensor Implementation
+- Assemble and test the **flex sensor**.
+- Develop a **regression model** to map sensor bend to resistance.
+- Use the STM32 ADC to read the sensor and modulate a speaker tone.
+
+### 2️⃣ Piezoelectric Sensor Integration
+- Understand **piezoelectric effect** and voltage spike concerns.
+- Implement **voltage snubbing** to protect STM32 input pins.
+- Use the piezo sensor as an event trigger for the musical instrument.
+
+### 3️⃣ Musical Instrument Construction
+- Combine **flex and piezo sensors** to create a playable instrument.
+- Implement **tone generation and duration control**.
+- Analyze sensor **noise and response smoothing**.
+
+### 4️⃣ Analog Filtering Analysis
+- Design and simulate **low-pass, high-pass, and band-pass filters**.
+- Experimentally validate filter performance using real sensor data.
+- Compare theoretical and actual filter responses.
+
+## 🎯 Key Challenges & Solutions
+- **Flex Sensor Noise:** Applied smoothing techniques for stable readings.
+- **Piezo Voltage Spikes:** Implemented protective circuits to prevent damage.
+- **Filter Accuracy:** Tuned component values for optimal signal processing.
+
+## 📸 Media
+*(Include images of the setup, filter responses, and final instrument if available.)*
+
+## 🛠 Team
+- **Aleida Diaz-Roque**
+
+## 🔗 References
+- [Project Git Repository](https://github.com/aleidaroque/ECE167)
+- [Flex Sensor Documentation](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
+
