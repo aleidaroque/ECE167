@@ -1,4 +1,4 @@
-# Lab 1: Introduction to Resistive Sensors and Analog Filtering
+# Project 1: Introduction to Resistive Sensors and Analog Filtering
 
 **ECE167 - Sensing and Sensor Technology**  
 **University of California, Santa Cruz**  
@@ -26,7 +26,7 @@ This project introduces **resistive and piezoelectric sensors** and their integr
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for sensor interfacing and filtering
  ┣ 📂 hardware    # Circuit schematics and filter designs
- ┗  📂 docs        # Reports, regression models, and reference materials
+ ┗ 📂 docs        # Reports, regression models, and reference materials
 ```
 
 ## 🚀 Lab Sections
@@ -57,12 +57,15 @@ This project introduces **resistive and piezoelectric sensors** and their integr
 - **Filter Accuracy:** Tuned component values for optimal signal processing.
 
 ## 📸 Media
-*(Include images of the setup, filter responses, and final instrument if available.)*
+<img src="https://github.com/user-attachments/assets/a401de32-8f6f-472f-8604-b7407373a82d" width="400">
+
+
+
 
 ## 🛠 Team
 - **Aleida Diaz-Roque**
 
 ## 🔗 References
-- [Project Git Repository](https://github.com/aleidaroque/ECE167)
+- [Class Project Git Repository](https://github.com/aleidaroque/ECE167)
 - [Flex Sensor Documentation](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
 
