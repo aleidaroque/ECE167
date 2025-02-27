@@ -24,8 +24,8 @@ This project introduces three different types of sensors: **quadrature encoders,
 📦 Lab2_Encoder_Ultrasonic_Capacitive
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for sensor interfacing and calibration
- ┣ 📂 hardware    # Circuit schematics and component specifications
- ┗ 📂 docs        # Reports, calibration data, and reference materials 
+ ┣ 📂 datasheets    # Reference Material
+ ┗ 📂 docs        # Reports, calibration data, and video examples
 ```
 
 ## 🚀 Lab Sections

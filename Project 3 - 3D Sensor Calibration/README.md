@@ -25,8 +25,8 @@ This project introduces **9-DOF Inertial Measurement Units (IMUs)** and their ca
 📦 Lab3_3D_Sensor_Calibration
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for IMU interfacing and calibration
- ┣ 📂 hardware    # Circuit schematics and sensor connection diagrams
- ┗ 📂 docs        # Reports, calibration data, and MATLAB scripts
+ ┣ 📂 matlab    # MATLAB scripts
+ ┗ 📂 docs        # Reports and project assignment
 ```
 
 ## 🚀 Project Sections

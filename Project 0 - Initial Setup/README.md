@@ -26,12 +26,12 @@ Project 0 introduces students to the **STM32 microcontroller** and the **Platfor
 📦 Lab0_Development_Setup
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for Hello World and Musical Instrument
- ┣ 📂 hardware    # Circuit schematics and component wiring
- ┣ 📂 docs        # Reports and reference materials
- ┗ 📜 LICENSE     # License information
+ ┣ 📂 datasheets    # Reference materials
+ ┗ 📂 docs        # Reports and project assignment
+ 
 ```
 
-## 🚀 Preoject Sections
+## 🚀 Project Sections
 
 ### 1️⃣ Development Environment Setup
 - Install **VSCode** and **PlatformIO**.

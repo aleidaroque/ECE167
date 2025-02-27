@@ -25,8 +25,8 @@ This project focuses on **attitude estimation**, a critical component in **auton
 📦 Lab4_Attitude_Estimation
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for DCM, filtering, and integration
- ┣ 📂 hardware    # IMU setup and circuit schematics
- ┗ 📂 docs        # Reports, MATLAB scripts, and reference materials
+ ┣ 📂 matlab   # MATLAB scripts
+ ┗ 📂 docs        # Reports, and reference materials
 ```
 
 ## 🚀 Project Sections

@@ -2,6 +2,7 @@
 
 **ECE167 - Sensing and Sensor Technology**  
 **University of California, Santa Cruz**  
+** Winter 2024**
 
 ## 📌 Overview
 This project, **Dits and Dahs**, is an interactive Morse code training game that helps users improve both their writing and listening skills. The game uses a combination of **flex sensors, capacitive touch sensors, and a homemade capacitive touch sensor** to allow players to transmit Morse code. The game features multiple difficulty levels, an OLED display, and a scoring system to track progress.
@@ -25,8 +26,7 @@ This project, **Dits and Dahs**, is an interactive Morse code training game that
 📦 Dits_and_Dahs_Final_Project
  ┣ 📜 README.md   # Project documentation
  ┣ 📂 src         # Source code for sensor interfacing, game logic, and display
- ┣ 📂 hardware    # Circuit schematics and sensor wiring diagrams
- ┗ 📂 docs        # Reports, test data, and reference materials
+ ┗ 📂 docs        # Reports, test data, videos, and reference materials
 ```
 
 ## 🚀 Project Sections
@@ -56,12 +56,6 @@ This project, **Dits and Dahs**, is an interactive Morse code training game that
 
 <img src="https://github.com/user-attachments/assets/76b64b1e-03b9-44b1-95e3-4daf883b34c6" width="400">
 
-
-
-
-
-
-
 ## 🛠 Team
 - **Aleida Diaz-Roque**
 - **Niki Mobtaker**
@@ -70,4 +64,6 @@ This project, **Dits and Dahs**, is an interactive Morse code training game that
 ## 🔗 References
 - [Project Git Repository](https://github.com/aleidaroque/ECE167)
 - [Morse Code Reference](https://morsecode.world/international/morse2.html)
+- [Game in action - Flex Sensor]](https://youtu.be/gCa86Q9ShJM)
+- [Game in action - Capacative Touch Sensor](https://youtu.be/vxfqrSrVxJI)
 
