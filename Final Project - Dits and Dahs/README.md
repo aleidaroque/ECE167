@@ -64,6 +64,6 @@ This project, **Dits and Dahs**, is an interactive Morse code training game that
 ## 🔗 References
 - [Project Git Repository](https://github.com/aleidaroque/ECE167)
 - [Morse Code Reference](https://morsecode.world/international/morse2.html)
-- [Game in action - Flex Sensor]](https://youtu.be/gCa86Q9ShJM)
+- [Game in action - Flex Sensor](https://youtu.be/gCa86Q9ShJM)
 - [Game in action - Capacative Touch Sensor](https://youtu.be/vxfqrSrVxJI)
 
