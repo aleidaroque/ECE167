@@ -25,7 +25,7 @@ This project introduces **resistive and piezoelectric sensors** and their integr
 📦 Lab1_Flex_Piezo_Filters
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for sensor interfacing and filtering
- ┗ 📂 docs        # Reports, and reference materials
+ ┗ 📂 docs        # Reports, videos, and reference materials
 ```
 
 ## 🚀 Lab Sections
