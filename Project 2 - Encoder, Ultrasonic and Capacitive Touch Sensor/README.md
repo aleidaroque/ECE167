@@ -24,11 +24,11 @@ This project introduces three different types of sensors: **quadrature encoders,
 📦 Lab2_Encoder_Ultrasonic_Capacitive
  ┣ 📜 README.md   # Lab documentation
  ┣ 📂 src         # Source code for sensor interfacing and calibration
- ┣ 📂 datasheets    # Reference Material
+ ┣ 📂 datasheets  # Reference Material
  ┗ 📂 docs        # Reports, calibration data, and video examples
 ```
 
-## 🚀 Lab Sections
+## 🚀 Project Sections
 
 ### 1️⃣ Quadrature Encoder Interface (QEI)
 - Understand how **quadrature encoders** work.
