@@ -53,8 +53,6 @@ This project introduces three different types of sensors: **quadrature encoders,
 - **Ultrasonic Sensor Calibration:** Applied **Least Squares Regression** for accurate distance measurement.
 - **Capacitive Sensor Noise:** Implemented **differential amplifiers and software filtering**.
 
-## 📸 Media
-*(Include images of the encoder, ultrasonic sensor setup, and capacitive touch circuits if available.)*
 
 ## 🛠 Team
 - **Aleida Diaz-Roque**
